@@ -11,8 +11,11 @@
     <strong><a href="https://pluk.sh">https://pluk.sh</a></strong>
   </p>
   <p align="center">
-    <a target="_blank" href="https://x.com/pluk_sh">
-    Follow @pluk_sh on X
+    <a href="https://x.com/pluk_sh" target="_blank">
+      <img
+        src="https://img.shields.io/twitter/follow/pluk_sh?style=social"
+        alt="Follow @pluk_sh on X"
+      />
     </a>
   </p>
 </p>
