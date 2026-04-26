@@ -6,7 +6,7 @@
   <br>Pluk
 </h1>
   <p align="center">
-      AI‑powered, native database client for fast, exploratory work across your production data
+      AI native database client for fast, exploratory work across your production data
     <br />
     <strong><a href="https://pluk.sh">https://pluk.sh</a></strong>
   </p>
